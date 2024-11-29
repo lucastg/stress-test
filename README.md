@@ -17,7 +17,7 @@ Se você deseja executar a ferramenta diretamente no seu ambiente local (sem Doc
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/stress-test.git
+https://github.com/lucastg/stress-test.git
 cd stress-test
 ```
 
