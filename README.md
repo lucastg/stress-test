@@ -40,13 +40,15 @@ go run main.go --url=http://google.com --requests=100 --concurrency=10
 ```
 ========== Relatório de Testes de Carga ==========
 URL Testada: http://google.com
-Tempo Total de Execução: 9.67s
+Tempo Total de Execução: 10.20s
 Total de Requests Enviados: 100
 
 Distribuição dos Status HTTP:
-  Status 200: 100 requests
+  Status 200: 90 requests
+  Status 404: 5 requests
+  Status 500: 5 requests
 
-Total de Requests Bem-Sucedidos (Status 200): 100
+Total de Requests Bem-Sucedidos (Status 200): 90
 ==================================================
 ```
 
