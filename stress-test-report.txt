@@ -1,0 +1,11 @@
+
+========== Relatório de Testes de Carga ==========
+URL Testada: http://google.com
+Tempo Total de Execução: 1.15s
+Total de Requests Enviados: 20
+
+Distribuição dos Status HTTP:
+  Status 429: 20 requests
+
+Total de Requests Bem-Sucedidos (Status 200): 0
+==================================================
