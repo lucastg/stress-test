@@ -1,6 +1,10 @@
 # Stress Test CLI
 
-Este projeto é uma ferramenta de linha de comando (CLI) desenvolvida em Go para realizar testes de carga em um serviço web. O sistema permite que você especifique uma URL de serviço, o número total de requisições a serem feitas e o número de requisições simultâneas. Ele gera um relatório com o desempenho do serviço, incluindo o status das requisições HTTP.
+Este projeto é uma ferramenta de linha de comando (CLI) desenvolvida em Go para realizar testes de carga em um serviço web. 
+
+O sistema permite que você especifique uma URL de serviço, o número total de requisições a serem feitas e o número de requisições simultâneas. 
+
+Ele gera um relatório com o desempenho do serviço, incluindo o status das requisições HTTP.
 
 ## Requisitos
 
